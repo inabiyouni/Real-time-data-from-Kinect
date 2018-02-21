@@ -5,8 +5,11 @@ This modified version uses a TCP-IP connection and sends real-time data from eac
 so any other program like matlab can read the data from the port number and use it. 
 
 Licensing
-The main version of the project is licensed as follow:
+
+The main version of the project is licensed as follow(which can apply to modified versions too):
+
 "
+
 While all of our code is licensed under the MIT license, the 3rd party libraries have different licenses:
 
 nanoflann - https://github.com/jlblancoc/nanoflann, BSD license
@@ -18,4 +21,5 @@ SocketCS - http://www.adp-gmbh.ch/win/misc/sockets.html
 If you use this software in your research, then please use the following citation: 
 Kowalski, M.; Naruniec, J.; Daniluk, M.: "LiveScan3D: A Fast and Inexpensive 3D Data Acquisition System for Multiple Kinect v2 Sensors". 
 in 3D Vision (3DV), 2015 International Conference on, Lyon, France, 2015
+
 "
