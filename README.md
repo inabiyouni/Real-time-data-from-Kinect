@@ -6,7 +6,7 @@ so any other program like matlab can read the data from the port number and use 
 
 Licensing
 
-The main version of the project is licensed as follow(which can apply to modified versions too):
+The main version of the project is licensed as follow(which can be applied to the modified versions too):
 
 "
 
